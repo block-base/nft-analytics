@@ -6,7 +6,7 @@ This is NFT Analytics Dapp with The Graph
 
 ## Whoami
 
-[BlockBase](https://mobile.twitter.com/blockbase_inc) is blockchain development company. We supported several client to build web3 product. We have experience with building game, marketplace, creator platform using The Graph. 
+[BlockBase](https://mobile.twitter.com/blockbase_inc) is blockchain development company. We supported several client to build web3 product. We have experience with building game, marketplace, creator platform using The Graph.
 
 ## Why we build this project?
 
@@ -14,7 +14,7 @@ We are managing NFT Minting tool [Chocomint](https://factory.chocomint.app/), an
 
 Both services are requiring tracking and analytics function now. Minting service requires to track how minted NFT works, and crosschain service requires to track NFT transfer history in multi-chain.
 
-We can use existing NFT API too, but we'd like to have more decentralized solution to track/analyze NFTs. 
+We can use existing NFT API too, but we'd like to have more decentralized solution to track/analyze NFTs.
 
 That's why we started this project.
 
@@ -22,7 +22,7 @@ That's why we started this project.
 
 I believe NFT is one of the biggest use-case of blockchain, and key of the mass-adoption. So having NFT analytics tool using The Graph means bringing a lot of user in The Graph ecosystem.
 
-And this is going to be complete NFT analytics UI only utilizing the graph data. This can show capability of the subgraph data too. 
+And this is going to be complete NFT analytics UI only utilizing the graph data. This can show capability of the subgraph data too.
 
 ## Concept
 
@@ -47,7 +47,7 @@ Suggestion for adding more data is welcomed!
 
 Subgraph listing and data availability check is done at this [issue](https://github.com/block-base/nft-analytics/issues/2).
 
-TBD: screenshot of data diagram
+![subgraph](./docs/subgraph-list.jpg)
 
 ## Roadmap
 
@@ -58,25 +58,30 @@ This is the initial roadmap of this project.
 We are planning to have three big milestone in our roadmap.
 
 - 1st milestone: Done with building MVP (by Sep 2nd)
-  - Deliverable 
+
+  - Deliverable
+
     - Simple UI
     - ERC721 general data
     - Sales data from 1 market place
 
   - Feedback from commnuty and The Graph team
     - Better UI Design
-    - Target chain and marketplace 
+    - Target chain and marketplace
     - Missing subgraph
 
 - 2nd milestone: Dapp improvement (by Sep 30th)
+
   - Deliverable
+
     - Better UI according to last feedback
     - ERC1155 support
     - Selected chain and market support
     - Service url is open for user to try
-  
+
   - Subgraph development
-    - If we found some subgraph should be developed additionally, we will develop at this time. 
+
+    - If we found some subgraph should be developed additionally, we will develop at this time.
 
   - Feedback
     - UX improvement for beta releasing
@@ -95,4 +100,3 @@ We are planning to have three big milestone in our roadmap.
 cd packages/frontend
 yarn dev
 ```
-
