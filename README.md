@@ -18,6 +18,12 @@ We can use existing NFT API too, but we'd like to have more decentralized soluti
 
 That's why we started this project.
 
+## How this service is valuable to The Graph ecosystem?
+
+I believe NFT is one of the biggest use-case of blockchain, and key of the mass-adoption. So having NFT analytics tool using The Graph means bringing a lot of user in The Graph ecosystem.
+
+And this is going to be complete NFT analytics UI only utilizing the graph data. This can show capability of the subgraph data too. 
+
 ## Concept
 
 This is NFT Analytics Dapp using The Graph, this is going to have NFT project leader board and NFT information analytics UI.
