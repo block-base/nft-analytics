@@ -10,13 +10,13 @@ We are managing NFT Minting tool [Chocomint](https://factory.chocomint.app/), an
 
 Both services are requiring tracking and analytics function now. Minting service requires to track how minted NFT works, and crosschain service requires to track NFT transfer history in multi-chain.
 
-We can use existing NFT API too, but we'd like to have more decentralized solution to track/analize NFTs. 
+We can use existing NFT API too, but we'd like to have more decentralized solution to track/analyze NFTs. 
 
 That's why we started this project.
 
 ## Whoami
 
-[BlockBase](https://mobile.twitter.com/blockbase_inc) is blockchain development company. We supported sevaral client to build web3 product. We have experience with building game, marketplace, creator platform using The Graph. 
+[BlockBase](https://mobile.twitter.com/blockbase_inc) is blockchain development company. We supported several client to build web3 product. We have experience with building game, marketplace, creator platform using The Graph. 
 
 
 ## Concept
