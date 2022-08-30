@@ -4,6 +4,10 @@ This is NFT Analytics Dapp with The Graph
 
 ![system design](./docs/system-design.jpg)
 
+## Whoami
+
+[BlockBase](https://mobile.twitter.com/blockbase_inc) is blockchain development company. We supported several client to build web3 product. We have experience with building game, marketplace, creator platform using The Graph. 
+
 ## Why we build this project?
 
 We are managing NFT Minting tool [Chocomint](https://factory.chocomint.app/), and NFT crosschain bridge [NFTHashi](https://nfthashi.com/).
@@ -13,11 +17,6 @@ Both services are requiring tracking and analytics function now. Minting service
 We can use existing NFT API too, but we'd like to have more decentralized solution to track/analyze NFTs. 
 
 That's why we started this project.
-
-## Whoami
-
-[BlockBase](https://mobile.twitter.com/blockbase_inc) is blockchain development company. We supported several client to build web3 product. We have experience with building game, marketplace, creator platform using The Graph. 
-
 
 ## Concept
 
@@ -40,10 +39,9 @@ Suggestion for adding more data is welcomed!
 
 ## Subgraph List
 
-[Transfer NFT](https://thegraph.com/explorer/subgraph?id=21dvLGCdpj4TNQXt7azhjc2sZhj2j5fWXuYCYG6z3mjP&view=Overview)
+Subgraph listing and data availability check is done at this [issue](https://github.com/block-base/nft-analytics/issues/2).
 
-### market place data
-[721 Marketplace](https://thegraph.com/explorer/subgraph?id=B333F7Ra4kuVBSwHFDfH9x9N1341GYHvdfpV94KY8Gmv&view=Overview)
+TBD: screenshot of data diagram
 
 ## Roadmap
 
